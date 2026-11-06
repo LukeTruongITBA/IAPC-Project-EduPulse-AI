@@ -1,2 +1,2 @@
-# IAPC-Project-2026
+# IAPC-Project-EduPulse AI
 IAPC course project - 2026
